@@ -66,4 +66,6 @@ __4.Есть система неважно какой структуры. Тре
 
 # Практическая часть 
 
-
+В данном репозитории можно найти и практическую часть моего ТЗ.Ответы на всю практическую часть вы можете найти ниже.
+- [Скрипт на пайтон](https://github.com/MikitaSles/test_tech/blob/main/script.py#L3)
+- [Файл Docker](https://github.com/MikitaSles/test_tech/blob/main/build.dockerfile)
